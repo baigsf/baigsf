@@ -7,4 +7,4 @@
 
 
 
-![PFP](https://github.com/user-attachments/assets/68519a54-0f29-4670-801e-4b896c086842)
+<img> src="https://github.com/user-attachments/assets/68519a54-0f29-4670-801e-4b896c086842" width="256" />
