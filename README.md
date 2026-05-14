@@ -1,4 +1,4 @@
 About Me
 
-Third-year Cybersecurity student, Linux enthusiast, and open-source advocate with interests in DevOps, security, and automation. I build hands-on skills through homelabbing, self-hosting, and working with Linux systems, networking, and infrastructure.
+Third-year Cybersecurity student building skills in DevSecOps, security, and automation. I develop hands-on experience through homelabbing, self-hosting, and working with Linux systems, networking, and infrastructure. I like using open-source software and applying practical security practices across development and operations.
 
